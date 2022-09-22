@@ -1,0 +1,62 @@
+body{
+    width:67em;
+    background-color:rgb(180, 161, 176);
+    margin: 45px;
+    padding: 30px;
+}
+
+#fg{
+    background-color: rgb(246, 250, 245);
+    border-radius:1em;
+}
+    
+
+h2{
+    text-align: center;
+    color:silver;
+}
+h1{
+    text-align: center;
+    color:black;
+}
+a{
+    text-align: center;
+}
+
+#btn-add{
+    margin-left:68px;
+    padding: 10PX;
+    margin-bottom: 1em;
+}
+
+#navi{
+    background-color: palegreen;
+    color: aquamarine;
+ }
+#uli{
+    margin-left: 10em;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-bottom: 3px;
+}
+#content{
+    margin-right:8em;
+   
+ }
+ 
+#lin{
+    cursor: pointer;
+ }
+
+ a.href{
+    color: brown;
+ }
+
+ #tableau{
+    background-color: rgb(204, 218, 213);
+ }
+ #colo{
+    color: black;
+ }
+
+ 
