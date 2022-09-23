@@ -29,15 +29,15 @@ if(!isset($_SESSION['email'])){
         </h1>
         <h1> MES LOGEMENTS PREFERES </h1>
         <h2> MES DIFFERENTS LOGEMENTS  </h2>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light" >
-       <div class="container-fluid" >
-    <a class="navbar-brand" href="index.php" id = "colo">GESTION DES  TYPES DE LOGEMENTS</a>
-    <a class="navbar-brand" href="index1.php" id = "colo">GESTION  DES LOGEMENTS</a>
-  </div>
-</nav>
+        <nav class="navbar navbar-inverse" role="navigation" >
+    <div class="container-fluid" >
+       <div class="navbar-header" >
+            <a class="navbar-brand" href="index.php" >GESTION DES TYPES DE LOGEMENTS</a>
+            <a class="navbar-brand" href="index1.php">GESTION  DES LOGEMENTS</a>
+       </div>
+    </nav>
 
-         <a href="logout.php" >Deconnection</a> <br> <br>
-         <a href="enregistrement.php" >S'inscrire </a> <br> <br>
+         <a href="index2.php" >Accueil</a> <br> <br>
          <a href="ajouterlog.php"  class="btn btn-primary btn-lg float-right" >Ajouter</a>
       </div>
       <br>
